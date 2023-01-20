@@ -3,4 +3,4 @@
 S-Guettner-Dev/S-Guettner-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="./chart.png">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Guettner&exclude_repo=freeCodeCamp,first-contributions)](https://github.com/anuraghazra/github-readme-stats)
