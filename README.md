@@ -23,8 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&background=FFFFFF00&center=true&multiline=true&width=542&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sven;A+passionate+frontend+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&background=FFFFFF00&center=true&multiline=true&repeat=false&width=542&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sven;A+passionate+frontend+developer+)](https://git.io/typing-svg)
 
 
 
