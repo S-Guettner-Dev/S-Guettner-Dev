@@ -5,8 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--typing hello -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=10&color=E13C80&background=1413218A&center=true&multiline=true&repeat=false&width=672&height=151&lines=Hey+there%F0%9F%91%8B+;I'm+Sven+a+passionate+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=10&color=E13C80&background=1413218A&center=true&multiline=true&repeat=false&width=672&height=84&lines=Hey+there%F0%9F%91%8B+;I'm+Sven+a+passionate+frontend+developer)](https://git.io/typing-svg)
 
 
 
