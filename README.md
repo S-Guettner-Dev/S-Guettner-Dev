@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=300&color=CF3877&background=141321&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;i+am+Sven+;a+passionate+frontend+developer)](https://git.io/typing-svg)
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Guettner&theme=radical)
