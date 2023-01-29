@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Guettner&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Guettner&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Guettner&theme=radical)
+
 
 
 
