@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=20)](https://skillicons.dev)
     <br>
-  [![My Skills](https://skillicons.dev/icons?i=git&perline=20)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,vercel&perline=20)](https://skillicons.dev)
 
 <br>
 <h3>Visit my Portfolio at https://www.sven-guettner.dev/</h3>
