@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
 ![Your Alt text](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 
@@ -35,6 +34,9 @@ You can click the Preview link to take a look at your changes.
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=20)](https://skillicons.dev)
     <br>
   [![My Skills](https://skillicons.dev/icons?i=git,vercel&perline=20)](https://skillicons.dev)
+
+
+
 
 <br>
 <h3>Visit my Portfolio at https://www.sven-guettner.dev/</h3>
