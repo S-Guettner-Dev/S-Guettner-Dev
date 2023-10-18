@@ -11,9 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
+![Your Alt text](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Guettner&theme=highcontrast)
-<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Guettner&theme=radical)
 
 
@@ -21,9 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Alt text" width="200" height="200">
 
 
 
@@ -37,3 +38,5 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <h3>Visit my Portfolio at https://www.sven-guettner.dev/</h3>
+
+
