@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Alt text" width="200" height="200">
+
 
 
 
@@ -38,5 +38,5 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <h3>Visit my Portfolio at https://www.sven-guettner.dev/</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" alt="Alt text" width="590" height="250">
 
